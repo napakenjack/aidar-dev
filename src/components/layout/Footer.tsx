@@ -38,7 +38,6 @@ export function Footer() {
               <li><a href="https://www.linkedin.com/in/aidar-akhmetzhanov-3a0002132/" className="hover:text-foreground transition-colors inline-flex items-center gap-2"><Linkedin size={16}/> LinkedIn</a></li>
               <li><a href="https://x.com/napoxiong" className="hover:text-foreground transition-colors inline-flex items-center gap-2"><Twitter size={16}/> X</a></li>
               <li><a href="https://github.com/napakenjack" className="hover:text-foreground transition-colors inline-flex items-center gap-2"><Github size={16}/> GitHub</a></li>
-              <li><a href="https://www.youtube.com/@aidar_akm" className="hover:text-foreground transition-colors inline-flex items-center gap-2"><Youtube size={16}/> Youtube</a></li>
             </ul>
           </div>
         </div>
