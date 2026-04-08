@@ -32,8 +32,8 @@ export function About() {
             <div className="aspect-[4/5] rounded-3xl overflow-hidden relative border border-foreground/10">
               <div className="absolute inset-0 bg-gradient-to-t from-background/60 to-transparent z-10" />
               <img 
-                src="https://lh3.google.com/u/4/d/1WSiKDeMbRWuEMHnlBjcaMHVO0MbDZ7zG=w2560-h1237-iv1?auditContext=prefetch" 
-                alt="Alex - Digital Specialist"
+                src="https://res.cloudinary.com/dkptvohx2/image/upload/ChatGPT_Image_Mar_25_2026_09_17_35_AM_twj0g8.png" 
+                alt="Aidar - Digital Specialist"
                 className="object-cover w-full h-full grayscale hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
               />
