@@ -41,7 +41,7 @@ export function Navbar() {
     >
       <div className="container mx-auto px-6 md:px-12 flex items-center justify-between">
         <Link to="/" className="text-xl font-bold tracking-tighter z-50 relative">
-          ALEX<span className="text-foreground/50">.DEV</span>
+          AIDAR<span className="text-foreground/50">.DEV</span>
         </Link>
 
         {/* Desktop Nav */}
