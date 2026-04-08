@@ -40,7 +40,7 @@ export function About() {
             </div>
             {/* Floating badge */}
             <div className="absolute -bottom-6 -left-6 glass p-6 rounded-2xl z-20 max-w-[240px]">
-              <div className="text-3xl font-bold mb-1">10+</div>
+              <div className="text-3xl font-bold mb-1">4+</div>
               <div className="text-sm text-foreground/60">Years of combined experience in tech & design</div>
             </div>
           </Reveal>
