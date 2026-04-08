@@ -32,7 +32,7 @@ export function About() {
             <div className="aspect-[4/5] rounded-3xl overflow-hidden relative border border-foreground/10">
               <div className="absolute inset-0 bg-gradient-to-t from-background/60 to-transparent z-10" />
               <img 
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop" 
+                src="https://lh3.google.com/u/4/d/1WSiKDeMbRWuEMHnlBjcaMHVO0MbDZ7zG=w2560-h1237-iv1?auditContext=prefetch" 
                 alt="Alex - Digital Specialist"
                 className="object-cover w-full h-full grayscale hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
