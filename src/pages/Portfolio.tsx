@@ -12,17 +12,17 @@ const projects = [
     niche: "Healthcare",
     summary: "A premium, trust-building website for a modern private clinic.",
     achieved: "Increased patient bookings by 45% through optimized UX.",
-    image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=2053&auto=format&fit=crop",
+    image: "https://napaxiong.wordpress.com/wp-content/uploads/2026/04/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2026-04-08-150322.png",
     tags: ["React", "UI/UX", "Booking Integration"]
   },
   {
     id: 2,
-    title: "Lumina Cosmetics",
-    category: "AI Videos",
+    title: "Premium Cosmetics",
+    category: "AI Videos & Neuro photosession",
     niche: "Beauty",
     summary: "Cinematic AI promo reel for a new skincare line launch.",
     achieved: "Generated 1.2M views on social media with 0 physical shoot costs.",
-    image: "https://images.unsplash.com/photo-1615397323712-42b781600868?q=80&w=2000&auto=format&fit=crop",
+    image: "https://napaxiong.wordpress.com/wp-content/uploads/2026/04/cosmetics.png",
     tags: ["AI Video", "Motion", "Sound Design"]
   },
   {
