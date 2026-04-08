@@ -12,7 +12,7 @@ const projects = [
     niche: "Healthcare",
     summary: "A premium, trust-building website for a modern private clinic.",
     achieved: "Increased patient bookings by 45% through optimized UX.",
-    image: "https://napaxiong.wordpress.com/wp-content/uploads/2026/04/d0a1d0bdd0b8d0bcd0bed0ba-d18dd0bad180d0b0d0bdd0b0-2026-04-08-150322.png",
+    image: "https://napaxiong.wordpress.com/wp-content/uploads/2026/04/frame-4.png",
     tags: ["React", "UI/UX", "Booking Integration"]
   },
   {
