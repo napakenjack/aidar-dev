@@ -27,7 +27,7 @@ Service: ${service}
 Details:
 ${details}`;
 
-    window.location.href = `mailto:hello@alex.dev?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = `mailto:napaxiong@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     
     setIsSubmitted(true);
     setTimeout(() => setIsSubmitted(false), 5000);
@@ -139,7 +139,7 @@ ${details}`;
                   </div>
                   <div>
                     <div className="text-sm text-foreground/50 mb-1">Email</div>
-                    <a href="mailto:hello@alex.dev" className="text-foreground hover:text-foreground/80 transition-colors">hello@alex.dev</a>
+                    <a href="mailto:napaxiong@gmail.com" className="text-foreground hover:text-foreground/80 transition-colors">napaxiong@gmail.com</a>
                   </div>
                 </div>
                 
