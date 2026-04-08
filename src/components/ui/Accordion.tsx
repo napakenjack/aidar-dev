@@ -12,15 +12,15 @@ interface AccordionItemProps {
 
 export function AccordionItem({ title, children, isOpen, onClick }: AccordionItemProps) {
   return (
-    <div className="border-b border-white/10">
+    <div className="border-b border-foreground/10">
       <button
         className="flex w-full items-center justify-between py-6 text-left focus:outline-none"
         onClick={onClick}
       >
-        <span className="text-lg font-medium text-white/90">{title}</span>
+        <span className="text-lg font-medium text-foreground/90">{title}</span>
         <ChevronDown
           className={cn(
-            "h-5 w-5 text-white/50 transition-transform duration-300",
+            "h-5 w-5 text-foreground/50 transition-transform duration-300",
             isOpen && "rotate-180"
           )}
         />
@@ -34,7 +34,7 @@ export function AccordionItem({ title, children, isOpen, onClick }: AccordionIte
             transition={{ duration: 0.3, ease: "easeInOut" }}
             className="overflow-hidden"
           >
-            <div className="pb-6 text-white/60 leading-relaxed">
+            <div className="pb-6 text-foreground/60 leading-relaxed">
               {children}
             </div>
           </motion.div>
