@@ -186,14 +186,14 @@ export function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {[
               {
-                title: "Aura Medical Center",
+                title: "Nova Care Medical Center",
                 category: "Website Development",
-                image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=2053&auto=format&fit=crop",
+                image: "https://napaxiong.wordpress.com/wp-content/uploads/2026/04/frame-4.png",
               },
               {
                 title: "Lumina Cosmetics",
                 category: "AI Video & Neuro-Photo",
-                image: "https://images.unsplash.com/photo-1615397323712-42b781600868?q=80&w=2000&auto=format&fit=crop",
+                image: "https://napaxiong.wordpress.com/wp-content/uploads/2026/04/cosmetics.png",
               }
             ].map((work, i) => (
               <Reveal key={i} delay={i * 0.1} className="group cursor-pointer">
